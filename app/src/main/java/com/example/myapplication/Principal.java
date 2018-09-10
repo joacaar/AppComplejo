@@ -7,6 +7,8 @@ public class Principal {
     public static void main (String arg[]){
         //System.out.println("Hola ...");
         ArrayList <Double> numeros = new ArrayList<Double>();
+        //nueva linea para comprobar el commit de git
+        
     }
 }
 
